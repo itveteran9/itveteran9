@@ -23,7 +23,7 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 
-#  🙋 Hello
+#  🙋 美好的一天从代码开始！
 
 <p>✍️&nbsp;&nbsp;大家好，我是Itveteran! 热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
@@ -54,13 +54,12 @@
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
 ![Rabbitmq](https://img.shields.io/badge/-Rabbitmq-00599C?style=flat-square&logo=Rabbitmq)
-🧠 计划学习:
-
-&emsp;&emsp;
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
+.....
+&emsp;&emsp;
 
 🧰 常用的工具:
 
@@ -165,11 +164,12 @@ Sunday       64 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   8 mins              █████████░░░░░░░░░░░░░░░░   35.68% 
+java                     8 mins              █████████░░░░░░░░░░░░░░░░   35.68% 
+Vue                     8 mins               ███████████░░░░░░░░░░░░░░  40.8% 
 Text                     5 mins              ██████░░░░░░░░░░░░░░░░░░░   23.59% 
 CSS                      4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.88% 
 HTML                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.43% 
-Vue.js                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.41%
+
 
 🔥 Editors: 
 PyCharm                  12 mins             █████████████░░░░░░░░░░░░   52.12% 
