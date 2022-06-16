@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);ITVeteranJie您今天愉快!&center=true&size=27">
+  <a href="https://jieoyjj.gitee.io/itonte-project-separation/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22ItveteranIs%2C%20GitHub!%22);ITVeteranJie您今天愉快!&center=true&size=27">
   </a>
 </h1>
 
@@ -240,7 +240,7 @@ Windows                  24 mins             ███████████�
 <div align="center"><img width="50%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif"/></div>
 
 <!-- plugin metrics -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"/>
-</div>
+</div> -->
