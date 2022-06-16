@@ -50,20 +50,16 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
-
+![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
+![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
+![Rabbitmq](https://img.shields.io/badge/-Rabbitmq-00599C?style=flat-square&logo=Rabbitmq)
 🧠 计划学习:
 
 &emsp;&emsp;
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Java](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![C#](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Rabbitmq](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 
 🧰 常用的工具:
