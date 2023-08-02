@@ -33,7 +33,6 @@
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
 <a href="https://github.com/itveteran9/Chat2DB">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Chat2DB&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/sun0225SUN/Student-Data-Vision">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
