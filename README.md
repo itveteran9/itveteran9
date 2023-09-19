@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://jieoyjj.gitee.io/itonte-project-separation/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22ItveteranIs%2C%20GitHub!%22);JayBrother您今天愉快!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22ItveteranIs%2C%20GitHub!%22);Have a nice day, Brother Jay!&center=true&size=27">
   </a>
 </h1>
 
