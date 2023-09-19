@@ -15,7 +15,7 @@
   <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
   <a href="https://www.facebook.com/profile.php?id=100070064104265/"><img src="https://img.shields.io/badge/facebook-%E8%84%B8%E4%B9%A6-003472"></a>&emsp;
   <a href="https://www.youtube.com/channel/UC4nDk0V8I1c6m3CIo0F2LIQ"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
-<!--   <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp; -->
+  <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
 <!-- 访客数统计徽标 -->
 
 <!-- 贪吃蛇代码贡献图 -->
